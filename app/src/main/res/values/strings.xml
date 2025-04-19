@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Education Online BD</string>
+    <string name="loading_website">Loading Website</string>
+    <string name="birthcertificate">জন্ম নিবন্ধন</string>
+    <string name="EducationTrust">শিক্ষা সহায়তা</string>
+    <string name="others"><![CDATA[অন্যান্য সেবা >>>]]></string>
+    <string name="Colleges">কলেজ সমূহ</string>
+    <string name="Apply">আবেদন করুন</string>
+    <string name="SeeResult">রেজাল্ট দেখুন</string>
+    <string name="education_bd">Education BD</string>
+</resources>
