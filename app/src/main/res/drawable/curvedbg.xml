@@ -29,7 +29,7 @@
         <shape android:shape="rectangle"  >
              <corners android:radius="0dip" />
              <stroke android:width="0dip" 
-                 android:color="#10000000" />
+                 android:color="#10F6F6F6" />
          </shape>
                  
                      
