@@ -299,7 +299,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="15dp"
                     android:layout_marginBottom="10dp"
-                    android:backgroundTint="#AEEA00"
+                    android:backgroundTint="#2196F3"
                     app:cardCornerRadius="8sp">
 
                     <LinearLayout
@@ -323,7 +323,7 @@
                             android:paddingLeft="15dp"
                             android:paddingRight="15dp"
                             android:text="Visit Developer"
-                            android:textColor="#424242"
+                            android:textColor="#FFFFFF"
                             android:textSize="14sp" />
 
                     </LinearLayout>
